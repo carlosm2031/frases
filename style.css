@@ -5,7 +5,7 @@
 }
 
 #containerP {
-    background-image: url("/PrimerosPasos/Frases/background.jpeg");
+    background-image: url("background.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
